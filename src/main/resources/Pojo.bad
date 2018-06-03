@@ -1,0 +1,11 @@
+package ${packageName}
+
+/**
+ * ${desp}
+ **/
+${lombokAnn}
+public class ${clazzName}{
+	
+	${fieldBeanList}
+	
+}
